@@ -1,6 +1,6 @@
 
 
-```markdown
+
 # Sock Pair Counter
 
 ## Overview
